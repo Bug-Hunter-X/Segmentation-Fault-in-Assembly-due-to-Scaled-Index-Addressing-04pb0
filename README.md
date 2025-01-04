@@ -1,0 +1,1 @@
+This repository demonstrates a common error in assembly programming: segmentation faults caused by out-of-bounds memory access when using scaled index addressing. The `bug.asm` file contains the erroneous code, while `bugSolution.asm` provides a corrected version with appropriate bounds checking.
